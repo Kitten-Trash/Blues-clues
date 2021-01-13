@@ -1,0 +1,67 @@
+
+.topbabies {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 200px;
+}
+
+.tomanyclassesforoneproject {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: white;
+    background-color: #004586;
+    padding: 4px;
+    border: 4px solid white;
+    margin: 5px;
+}
+
+h1 {
+    color: #004586;
+    border: 5px solid #d2eeff;
+    margin: 50px;
+    text-align: center;
+    background-color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+.Bluepuppy {
+    border: 5px solid #d2eeff;
+}
+
+.Thewholepinkstuff {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Magentapuppy {
+    border: 5px solid #d2eeff;
+    height: 250px;
+}
+
+.mage {
+    height: 10px;
+}
+
+.pawsout {
+    height: 50px;
+}
+
+body {
+    background-color: #7aa0cc;
+}
